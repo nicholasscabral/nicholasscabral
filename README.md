@@ -15,4 +15,4 @@
 [<img src="https://img.shields.io/github/followers/nicholasscabral?label=follow&style=social" height="22" title="Follow me" />](https://github.com/nicholasscabral) 
 
 ![nicholasscabral's github stats](https://github-readme-stats.vercel.app/api?username=nicholasscabral&show_icons=true&theme=tokyonight&count_private=true)
-<img height= "195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasscabral&layout=compact&theme=tokyonight&langs_count=6">
+<img height= "195" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasscabral&layout=compact&theme=tokyonight&langs_count=6">
