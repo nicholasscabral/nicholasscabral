@@ -1,12 +1,5 @@
 ### Hi there, i'm Nicholas 👋
 
-
-- :computer: I’m currently working on **Personal projects**
-- :books: I’m currently learning **Node.js**, **React.js**
-- :octocat: I’m looking to collaborate on **Web/Mobile projects**
-- 🤔 I’m looking for help with **Possible bugs**
-- 💬 Ask me about **web development**
-- :brain: Always **learning**
 - :mailbox: contact me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasscabral/)](https://www.linkedin.com/in/nicholasscabral/)
