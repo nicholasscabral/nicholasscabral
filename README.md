@@ -1,12 +1,40 @@
-### Hi there, i'm Nicholas 👋
+<h1 align="center">Hi there, I'm Nicholas! 👋</h1>
 
-- :mailbox: contact me: 
+<p align="center">
+  <em>Full Stack Developer · Backend Specialist · LLM Applications Engineer</em>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasscabral/)](https://www.linkedin.com/in/nicholasscabral/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholasscabral@gmail.com)](mailto:nicholasscabral@gmail.com)
-[![Twitter URL](https://img.shields.io/static/v1?message=@nicholasscabral&label=&nbsp;&color=1ca0f1&style=flat-square&logo=twitter&labelColor=1ca0f1&logoColor=white)](http://twitter.com/nicholasscabral)
-[<img src="https://img.shields.io/github/followers/nicholasscabral?label=follow&style=social" height="22" title="Follow me" />](https://github.com/nicholasscabral) 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anajuliabit)](https://github.com/nicholasscabral)
+---
 
-![nicholasscabral's github stats](https://github-readme-stats.vercel.app/api?username=nicholasscabral&show_icons=true&theme=tokyonight&count_private=true)
+### 🚀 About Me
 
+I'm a **Full Stack Developer** with a strong focus on **Backend Engineering** and **AI-driven solutions** using **Large Language Models (LLMs)**.  
+I work on reliable systems, automation, and intelligent features that bring real value to users and businesses.
+
+- 🔧 Main Stack: **Node.js**, **TypeScript**, **Python**, **PostgreSQL**, **Docker**, **Prisma**
+- 🧠 Currently exploring: **LLM agents**, **LangChain**, **Ollama**, **Vector Databases**
+- 📦 Comfortable with: Microservices, APIs, Clean Architecture, Scalable Systems
+- 🛠️ Tooling & Infra: **AWS**, **Redis**, **CI/CD**, **Websockets**, **Serverless**
+- 📚 Strong practices in software architecture, system design, and modern development workflows
+
+---
+
+### 🎯 Objective
+
+Use technology to build intelligent, scalable systems that solve real-world problems efficiently.
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:nicholasscabral@gmail.com">
+    <img src="https://img.shields.io/badge/email-nicholasscabral@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nicholasscabral/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Cabral-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
