@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nicholas! 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer · Backend Specialist · LLM Applications Engineer</em>
+  <em>Full Stack Developer · Backend Specialist</em>
 </p>
 
 ---
